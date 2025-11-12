@@ -153,7 +153,7 @@ The program should display employee records or the appropriate error message if 
 - Implement exception handling to handle `NO_DATA_FOUND` or other errors that may occur.
 
 **Output:**  
-The program should update employee salaries and display a message, or it should display an error message if no data is found.
+The program should update employee salaries and display a message, or it should display an error message if no data is found
 
 ---
 
